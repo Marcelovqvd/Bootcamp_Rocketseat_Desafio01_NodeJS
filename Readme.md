@@ -72,6 +72,3 @@
 - Body:
 
   no body
-# Bootcamp_Rocketseat_Desafio01
-# Bootcamp_Rocketseat_Desafio01
-# Bootcamp_Rocketseat_Desafio01
